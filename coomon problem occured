@@ -7,4 +7,12 @@ suppose u got process id :1234 then run below command to kill running port
 then run command: kill 1234
 
 
+>>>>second problem >>>>
+u may need to delete grdle file some time 
+
+command :
+to see hidden file go tp home diectory : cd ~ then ls -a
+to delete gradile file : rm -rf $HOME/.gradle
+
+
 
