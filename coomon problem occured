@@ -1,0 +1,10 @@
+ error:(listen EADDRINUSE: address already in use :::8081.)
+
+solution:
+
+run this command :lsof -i :8081
+suppose u got process id :1234 then run below command to kill running port
+then run command: kill 1234
+
+
+
